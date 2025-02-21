@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-    background-color: #fff0b3;
+    background-color: #ffe680;
     color: black;
 }
 
@@ -31,5 +31,5 @@ a:hover {
     border-radius: 15px;
     padding: 5px;
     display: flex;
-    background-color: #fff5cc;
+    background-color: #fff0b3;
 }
