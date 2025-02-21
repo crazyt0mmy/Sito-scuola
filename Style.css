@@ -66,3 +66,19 @@ a:hover {
 .abbassa-immagine {
     margin-top: 5px; 
 }
+
+.quadrato {
+    position: absolute;
+    top: 65px;  
+    left: 200px; 
+    width: 400px;
+    height: 330px;
+    background-color: #083484;
+}
+
+.sinistra {
+    text-align: left;
+    padding: 10px;
+    color:white;
+    font-family: Georgia;
+}
