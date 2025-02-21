@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(187, 187, 187);
-    font-family:Sans-serif;
+    background-color: #fef9e7;
+    font-family:Arial;
 }
 
 h1 {
@@ -12,7 +12,6 @@ h2 {
 }
 
 nav{
-    background-color: aqua;
-    font-family:Sans-serif;
-    text-align:center;
+    background-color: #fcf3cf;
+    
 }
