@@ -47,3 +47,22 @@ a:hover {
     display: flex;
     background-color: #fff0b3;
 }
+
+.contenitore {
+    display: flex;
+    justify-content: center; 
+    gap: 20px; 
+}
+
+.testo-centro {
+    text-align: center; 
+}
+
+.img {
+    width: 350px; 
+    height: 350px; 
+}
+
+.abbassa-immagine {
+    margin-top: 5px; 
+}
