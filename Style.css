@@ -4,8 +4,13 @@ body {
     background-color: #f8f0e3;
 }
 
+header {
+    background-color: blue;
+}
+
 h1 {
     text-align:center;
+    font-size:50px;
 }
 
 h2 {
@@ -14,6 +19,15 @@ h2 {
 
 a {
     text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.link {
+    text-decoration: none;
     display: block;
     color: black;
     text-align: center; 
@@ -21,7 +35,7 @@ a {
     float: left;   
 }
 
-a:hover {
+.link:hover {
     background-color: #ffe680;
     color: black;
 }
